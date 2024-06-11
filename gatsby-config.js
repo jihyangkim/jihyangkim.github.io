@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `kim, jihyang`,
+    title: `지향이's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `지향이`,
+      summary: `사는 이야기`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://jihyangkim.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `g_g.3_3`,
     },
   },
   plugins: [
