@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jihyangkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 13 Jun 2024 04:03:14 GMT</lastBuildDate><item><title><![CDATA[블로그 댓글 앱 추가하기]]></title><description><![CDATA[좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다. 나도 동일한 내용으로 포스팅 해보겠다. 일단 댓글 저장용 리포지토리를 생성한다.  Install Utterances 이 링크에서 앱을 설치하고 리포지토리를 연결해야한다. 다음 step…]]></description><link>https://jihyangkim.github.io/june-13-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/june-13-post/</guid><pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jihyangkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 13 Jun 2024 05:22:17 GMT</lastBuildDate><item><title><![CDATA[블로그 댓글 앱 추가하기]]></title><description><![CDATA[좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다. 나도 동일한 내용으로 포스팅 해보겠다. 일단 댓글 저장용 리포지토리를 생성한다.  Install Utterances 이 링크에서 앱을 설치하고 리포지토리를 연결해야한다. 다음 step…]]></description><link>https://jihyangkim.github.io/june-13-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/june-13-post/</guid><pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다.&lt;br&gt;
 나도 동일한 내용으로 포스팅 해보겠다.&lt;br&gt;
 일단 댓글 저장용 리포지토리를 생성한다.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -84,7 +84,658 @@
 &lt;p&gt;gatsby 로 해보았는데, 프론트 개발도 참 쉽지 않다.&lt;br&gt;
 백엔드 개발은 또 어떻게 할런지.&lt;/p&gt;
 &lt;p&gt;뭐든 해봐야겠다.&lt;br&gt;
-누구에게 공개할까 이 블로그를~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[silicagel Syn.THE.Size III]]></title><description><![CDATA[지난주 주말에 실리카겔 콘서트 다녀왔다. 11시에 도사견 클럽 친구들과 만나서 커피를 홀짝이며…]]></description><link>https://jihyangkim.github.io/may-23-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/may-23-post/</guid><pubDate>Thu, 23 May 2024 07:28:00 GMT</pubDate><content:encoded>&lt;p&gt;지난주 주말에 실리카겔 콘서트 다녀왔다.&lt;br&gt;
+누구에게 공개할까 이 블로그를~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[이른 여름 휴가]]></title><description><![CDATA[…]]></description><link>https://jihyangkim.github.io/june-8-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/june-8-post/</guid><pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;오늘은 이른 여름 휴가를 위해 춘천을 가는날이다.&lt;br&gt;
+계곡을 가기로 했는데, 아침부터 비가 온다.&lt;br&gt;
+부슬비라 그냥 맞고 감 ㅎ&lt;/p&gt;
+&lt;p&gt;아침부터 엄청난 어그로에 당해버렸다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;예지니 : 너 왜 안나오셈?&lt;br&gt;
+나 : ??? 아직 멀었잖아유&lt;br&gt;
+예지니 :  아냐 우리 앞차 타기로 했어.&lt;br&gt;
+나 : !!!!?!?!!?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;어찌된 사실이냐면. 강동구 여자들끼리 나를 버리고 가려고 했단다.&lt;br&gt;
+지하철을 믿을수가 없다며.&lt;br&gt;
+말이라도 해주시라고요.&lt;/p&gt;
+&lt;p&gt;얼른 준비하고 상봉역에서 강동구 여자들 만났다.😠😡😠😡&lt;/p&gt;
+&lt;p&gt;나머지 두친구는 itx를 타고 온다고 했다.&lt;br&gt;
+우리는 앞차를 탔고, 다행히 앉아서 출발했다.&lt;/p&gt;
+&lt;p&gt;예미니가 챙겨온 초콜릿을 먹었는데, 산타가 양파망 같은데 들어있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9799f7e3f4a4410c07fc12fcaa004041/302a4/image-3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;산타초코&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9799f7e3f4a4410c07fc12fcaa004041/f058b/image-3.png&quot;
+        srcset=&quot;/static/9799f7e3f4a4410c07fc12fcaa004041/c26ae/image-3.png 158w,
+/static/9799f7e3f4a4410c07fc12fcaa004041/6bdcf/image-3.png 315w,
+/static/9799f7e3f4a4410c07fc12fcaa004041/f058b/image-3.png 630w,
+/static/9799f7e3f4a4410c07fc12fcaa004041/40601/image-3.png 945w,
+/static/9799f7e3f4a4410c07fc12fcaa004041/302a4/image-3.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;가는길에 새벽까지 달린 여자들은 잠을 청했다. 나는 쌩쌩😚&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e5e1718e8e8e4871337a5370475c92d9/07a9c/image.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADnklEQVR42gGTA2z8ALacn7KcnquYmXqEhN7l4////524sZ/PvpSXp46MoIaEnWhohGFgfI6PpH61xl+EnVlxhH98iHeAhn+CjACrk4ySgnqhjYyMf356iof5//2nubaay7iSnKSPjqGXl6qhn7aYlq+Xl6rGw8V9kpxyiJR+gIx7i4mGi5cAx5yfoIKFjHt5spSRX19egbSeirGhm8q4kKOniIycj5OlcHKBbW5+jpGguMHCnKalnqungISPmaappqiuAKuGgreMjsWZnsaenoRubGKEbnOmipjFtJmus5SWq2VvcSQpLRseJ1ZdZZu4sJOqoG5/diMjLERGUIyPmQCQeGugfHW3kI23l5KbfnyQmXqFr4qMu6mluL+BgZBNXFIvODofJi0iKTCNpJR2g3saIyITGR4PExlDRUsAn3F1mXF0lnltpYh9moV8laR5dqJvhbKiqcHBaGhsN0Q8ICsqFh4eGyAiX2ZeNDg1EBUVFxsdEhYXSkxIAJp4caWAfa2Lgpp/c4+ScbPXoJa6kYy4qbTRyUxNShIcGQsUEx0hHiEiIBIVFhweHhsfHwcHCEdMSMbYzwC+nJK7k4+ojICMfGyepYC31piTspOLsKhifHk7TEoVISIDCwwSFxodICIOEhIaHR8tMjgiIyc3Ojqqsa0AnIhziHhjhHhiloZ0h4J2o6qep8G6iqahJTg6OU1QMkJFFiAmGCAoGx8oHR8oHiIpHiMpMTU+PzpCk3hxAKeUeJ6Pd6KUfrKfi2lgW5aak7S3srnCv4GOiR8sLRwnLCEqMSEoLyMqMy0zPTA1PxIXHRodJDg5QJ+IggCAdWWfkoCWinl5cGc1NDVVa2l7l5GorqzHzMaKlo8nLzYoMTgiKTAcJCsdJSseJSsJDhECBgg7NjSTfXEAMTQ0MTUzOjs8Ozs+QkpKWndyaZSOaoaBsLSxr7WzMjxGGSAlKjM5MjdBNTpFKzE6HB8oEhIZBQYHEhYXAEdLTDw9PTM2Nj09PmF3dW6YkHKZkmuQjGqBfzQ7ThciMxshJScwNCgwODM6Qjk8SDY3RS0tPB0gJxAVFwBdcG5EQ0Q/QUI8Pj8+QEJAS0tGVVdTZGRSa2kZITV0dnO4s56WkX1aXVcjKzAzOkA6PEkyNUE3O0U9REsAZoiDQkVGPT9AOTs9Nzc7LCkwKycuJSMnKTY2TldU1dOx2MaqtZ6EqZ+IR0tNDRkcJCwxMDU+OkBKP0ZNAyJqu8X6YXUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;지하철 잠자는 여자들&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e5e1718e8e8e4871337a5370475c92d9/f058b/image.png&quot;
+        srcset=&quot;/static/e5e1718e8e8e4871337a5370475c92d9/c26ae/image.png 158w,
+/static/e5e1718e8e8e4871337a5370475c92d9/6bdcf/image.png 315w,
+/static/e5e1718e8e8e4871337a5370475c92d9/f058b/image.png 630w,
+/static/e5e1718e8e8e4871337a5370475c92d9/40601/image.png 945w,
+/static/e5e1718e8e8e4871337a5370475c92d9/78612/image.png 1260w,
+/static/e5e1718e8e8e4871337a5370475c92d9/07a9c/image.png 1440w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;장장 1시간 반동안 지하철 타고 춘천에 도착했다.&lt;br&gt;
+내려서 쏘카에서 빌린 차 어딨는지 찾고, 배고픈 나머지 눈 앞에 보이는 철판 닭갈비집을 가기로 했다.  (사실 그냥 가자고 함 ㅎ)&lt;/p&gt;
+&lt;p&gt;가게 이름은 &lt;a href=&quot;https://naver.me/GHvrapbx&quot;&gt;샘토숯불닭갈비&lt;/a&gt;&lt;br&gt;
+사람이 있는데 오픈 시간이 오후 5시라서 의아한 상태로 앞을 서성거렸다.&lt;br&gt;
+그랬더니 사장님이 &quot;몇명이야~ 서울에서 왔어? 밥먹으려고?&quot; 라며 말을 걸어주셨고,&lt;br&gt;
+두명인줄 아셨던 사장님을 들어오라고 했지만 &quot;저희 5명이여요 ㅎ&quot;&lt;br&gt;
+단단히 속은 사장님 😁&lt;/p&gt;
+&lt;p&gt;우리는 그렇게 앉을 수 있었는데, 여기는 특이한 정책? 법칙? 규칙? 이 있다고 했다.&lt;br&gt;
+&quot;건강&quot; 하면 &quot;행복&quot; 이라고 외쳐야 밥을 먹을 수 있다고 한다.&lt;br&gt;
+뭔가 잘못됨을 느끼고 다같이 눈을 마주쳤다 ㄷㄷ.&lt;br&gt;
+일단 들여보내주신 사장님을 따랐다.&lt;/p&gt;
+&lt;p&gt;주문하려고 벨을 누르자 사장님이 &quot;여기는 내가 알아서 줘. 가만히 있어.&quot;&lt;br&gt;
+주문도 못하게 하구 ㅠ 얌전히 있었다. 그러면서 20대냐구 20대라 들여보내주셨단다.&lt;br&gt;
+그랬더니 예미니가 재언이는 못들어오겠다 ㅋ 이러면서 단톡방에 보냄 ㅋㅋ&lt;br&gt;
+늦게 온 친구들도 도착하고, 닭갈비 먹기도 전에 다들 기가 빨리고 있었다.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b833c54d62f4909b4ea371b7db00fde2/302a4/image-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;숯불판&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b833c54d62f4909b4ea371b7db00fde2/f058b/image-1.png&quot;
+        srcset=&quot;/static/b833c54d62f4909b4ea371b7db00fde2/c26ae/image-1.png 158w,
+/static/b833c54d62f4909b4ea371b7db00fde2/6bdcf/image-1.png 315w,
+/static/b833c54d62f4909b4ea371b7db00fde2/f058b/image-1.png 630w,
+/static/b833c54d62f4909b4ea371b7db00fde2/40601/image-1.png 945w,
+/static/b833c54d62f4909b4ea371b7db00fde2/302a4/image-1.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7fb2154ffa001135f82e39fb8eb8cf6a/302a4/image-2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;닭갈비&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7fb2154ffa001135f82e39fb8eb8cf6a/f058b/image-2.png&quot;
+        srcset=&quot;/static/7fb2154ffa001135f82e39fb8eb8cf6a/c26ae/image-2.png 158w,
+/static/7fb2154ffa001135f82e39fb8eb8cf6a/6bdcf/image-2.png 315w,
+/static/7fb2154ffa001135f82e39fb8eb8cf6a/f058b/image-2.png 630w,
+/static/7fb2154ffa001135f82e39fb8eb8cf6a/40601/image-2.png 945w,
+/static/7fb2154ffa001135f82e39fb8eb8cf6a/302a4/image-2.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;닭갈비가 나왔고, 정말정말 맛있었다. 그리고 중간 중간 틀어주는 음악 맞추면 고기를 서비스로 주셨다.&lt;br&gt;
+배 터지도록 먹었는데 5명이서 7만원 나왔다.&lt;br&gt;
+사장님이 베푸는걸 좋아하신다고 한다. 사장님 기 빨리지만 인심 최고 👍&lt;/p&gt;
+&lt;p&gt;밥 다먹고 날이 싹 개서 우리는 장을 보고 계곡을 가기로 했다.&lt;br&gt;
+오랜만에 운전이라 살짝 긴장했다 ㅎ 네비가 반응이 너무 느려서 길을 잘못 들었지만 어찌저찌 무사 도착.&lt;br&gt;
+주차도 완벽하게 했다. ✌️&lt;/p&gt;
+&lt;p&gt;장을 잔뜩보고 숙소로 향했다. 가는길에 쌈배 산다고 편의점 찾고 찾아서 갔다가 또 길 잘못 들어서 한바퀴 돌았다.&lt;br&gt;
+뺑글사 하기 전에 집중해서 숙소로 갔다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/55339cf1d5553365619ec0294f9ac567/8ae78/image-4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 131.64556962025318%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;숙소사진&quot;
+        title=&quot;&quot;
+        src=&quot;/static/55339cf1d5553365619ec0294f9ac567/f058b/image-4.png&quot;
+        srcset=&quot;/static/55339cf1d5553365619ec0294f9ac567/c26ae/image-4.png 158w,
+/static/55339cf1d5553365619ec0294f9ac567/6bdcf/image-4.png 315w,
+/static/55339cf1d5553365619ec0294f9ac567/f058b/image-4.png 630w,
+/static/55339cf1d5553365619ec0294f9ac567/40601/image-4.png 945w,
+/static/55339cf1d5553365619ec0294f9ac567/8ae78/image-4.png 1096w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;숙소가 너무너무 좋았다. 바베큐장도 있고, 내부에 계곡도 있고.&lt;br&gt;
+옷을 갈아입고, 계곡으로 향했다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1dd46b03217a696675b6e94abb558c5a/302a4/image-5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;계곡&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1dd46b03217a696675b6e94abb558c5a/f058b/image-5.png&quot;
+        srcset=&quot;/static/1dd46b03217a696675b6e94abb558c5a/c26ae/image-5.png 158w,
+/static/1dd46b03217a696675b6e94abb558c5a/6bdcf/image-5.png 315w,
+/static/1dd46b03217a696675b6e94abb558c5a/f058b/image-5.png 630w,
+/static/1dd46b03217a696675b6e94abb558c5a/40601/image-5.png 945w,
+/static/1dd46b03217a696675b6e94abb558c5a/302a4/image-5.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;계곡 얕은데 너무너무 차가워서 10분도 안있다가 올라왔다.&lt;br&gt;
+올라와서 각자 쉬는 시간을 보내고 야구도 보면서, 언녕이가 갑자기 산 &lt;code class=&quot;language-text&quot;&gt;박이&lt;/code&gt; 사진도 찍었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ae1d27d6d2c0ecd1659b84ae078957c7/fd28b/image-6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;수박이&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ae1d27d6d2c0ecd1659b84ae078957c7/f058b/image-6.png&quot;
+        srcset=&quot;/static/ae1d27d6d2c0ecd1659b84ae078957c7/c26ae/image-6.png 158w,
+/static/ae1d27d6d2c0ecd1659b84ae078957c7/6bdcf/image-6.png 315w,
+/static/ae1d27d6d2c0ecd1659b84ae078957c7/f058b/image-6.png 630w,
+/static/ae1d27d6d2c0ecd1659b84ae078957c7/fd28b/image-6.png 811w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;냅다 뻐큐하는 재언이 ㄷㄷ&lt;/p&gt;
+&lt;p&gt;다들 갑자기 잠을 청하기 시작했다. 여섯시반에 바베큐를 하자던 친구들은.&lt;br&gt;
+7시까지 무소식이였다.&lt;br&gt;
+하나둘 깨우고 바베큐하러 밖으로 나갔다.&lt;br&gt;
+산속이라 벌레 천국.&lt;/p&gt;
+&lt;p&gt;열정적으로 고기를 꾸웠다.
+고기 꿉는 동안 친구들이 비빔면과 쌈을 준비해왔다. 냠냠긋😋&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4b208cb4eafd30413f922cdca1947c2a/669cd/image-7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;바베큐 하는 나의 모습&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4b208cb4eafd30413f922cdca1947c2a/f058b/image-7.png&quot;
+        srcset=&quot;/static/4b208cb4eafd30413f922cdca1947c2a/c26ae/image-7.png 158w,
+/static/4b208cb4eafd30413f922cdca1947c2a/6bdcf/image-7.png 315w,
+/static/4b208cb4eafd30413f922cdca1947c2a/f058b/image-7.png 630w,
+/static/4b208cb4eafd30413f922cdca1947c2a/40601/image-7.png 945w,
+/static/4b208cb4eafd30413f922cdca1947c2a/78612/image-7.png 1260w,
+/static/4b208cb4eafd30413f922cdca1947c2a/669cd/image-7.png 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13b6234253766d98a606bed8bff4a980/669cd/image-8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;고기&quot;
+        title=&quot;&quot;
+        src=&quot;/static/13b6234253766d98a606bed8bff4a980/f058b/image-8.png&quot;
+        srcset=&quot;/static/13b6234253766d98a606bed8bff4a980/c26ae/image-8.png 158w,
+/static/13b6234253766d98a606bed8bff4a980/6bdcf/image-8.png 315w,
+/static/13b6234253766d98a606bed8bff4a980/f058b/image-8.png 630w,
+/static/13b6234253766d98a606bed8bff4a980/40601/image-8.png 945w,
+/static/13b6234253766d98a606bed8bff4a980/78612/image-8.png 1260w,
+/static/13b6234253766d98a606bed8bff4a980/669cd/image-8.png 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5c8e2b6f189a0d028a6f04b3d4bfe030/669cd/image-9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;쌈 비빔면&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5c8e2b6f189a0d028a6f04b3d4bfe030/f058b/image-9.png&quot;
+        srcset=&quot;/static/5c8e2b6f189a0d028a6f04b3d4bfe030/c26ae/image-9.png 158w,
+/static/5c8e2b6f189a0d028a6f04b3d4bfe030/6bdcf/image-9.png 315w,
+/static/5c8e2b6f189a0d028a6f04b3d4bfe030/f058b/image-9.png 630w,
+/static/5c8e2b6f189a0d028a6f04b3d4bfe030/40601/image-9.png 945w,
+/static/5c8e2b6f189a0d028a6f04b3d4bfe030/78612/image-9.png 1260w,
+/static/5c8e2b6f189a0d028a6f04b3d4bfe030/669cd/image-9.png 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;열심히 얘기하면서 밥먹다가 왕큰벌레 출몰.&lt;br&gt;
+다같이 디지버지듯이 피했다.&lt;br&gt;
+용감한 재언이가 잡아줌 😎&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7dd2b67611711b5f95df5d1a353afd2/669cd/image-10.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;왕벌레&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a7dd2b67611711b5f95df5d1a353afd2/f058b/image-10.png&quot;
+        srcset=&quot;/static/a7dd2b67611711b5f95df5d1a353afd2/c26ae/image-10.png 158w,
+/static/a7dd2b67611711b5f95df5d1a353afd2/6bdcf/image-10.png 315w,
+/static/a7dd2b67611711b5f95df5d1a353afd2/f058b/image-10.png 630w,
+/static/a7dd2b67611711b5f95df5d1a353afd2/40601/image-10.png 945w,
+/static/a7dd2b67611711b5f95df5d1a353afd2/78612/image-10.png 1260w,
+/static/a7dd2b67611711b5f95df5d1a353afd2/669cd/image-10.png 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;으 진짜 너무 커.
+벌레 퇴치하고 마시멜로까지 야무지게 먹고 있었는데,&lt;br&gt;
+&lt;strong&gt;왕귀여운 예삐 등장.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bf1380fcc02616141751440a9d4d8237/302a4/image-13.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAIAAADzvTiPAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEx0lEQVR42jWTx5OjVhCHGRFeIIqkQJaQRhFQAIFy1s7sHFw+2BdXuXz3wf//yc2uXfVVVz9e/zoBjNTkJI2XNEFUBUkRqMRSmRUVTlJ4UeaJxJGflrI/wYQlIkspJwgsI2ucpPK1UkWiwsNRboIFBKWJ5KYgG0jRsWZio0WBpkUASlnEswwRG4Q04CAqrKRxqsFrpgDXmomaJtZtrLcAYnaJ1aVmh1gdqv8Q83yDwfgNWlV0pFk/41ATBDZp2gSeKBZSTQFotiAAKZogKxwUQ+hNQG+MrPPwFOqooDewogvQtgLd1p2DwytgVU6BFYgcJSyAMTTLAgx0K8KGZI7Wa2jUU/y3m9qnPwC/vqIQUFM7Um0ZSYYls5g2EGngH1CoAMCGRbbWy/X+IRpeAdT4CdwCjKpzmslKKicrgqIgWRKoyNeVoZFaDEF8XeB/4FgrZXiXAmN3OLvDWy0BMG3YMK/qbNNgtRoOUqtNoJ5c1QXYCOxMM3jDpqalMF0HAa6DHQ91HMH1cKuDrDaqE9VBnNmC7ILV5u2u0HYw+CZUamOzTRjQuD4OIhz0sBfiMESdLuY49u2NgbZbXR5ou6hVK1HbJXYX2R0Evu1gJghpEJKwR70Ad10EerD38ybu+whzKjSpgxK5Aeq4xHGp42M3pE5AvUhifI+GAQ1qxDASez0Jsvzz9x+//fpBCCYYYSxQKrgh9iPiRSQa0mgoBX0a9GQmjAkQ9KFtEvRoFEtdj/vrz6/JOGYbDMgw4RCCrwW50GDcjPpWL7aigdGLbcbr4XBAwgGNBlCZRLEI/mLtm6bGsvDxcgIPYk6SaRwH4/FwNBpOp+MkmSfJlPEi3B+Jg4nUexfjkfSeKu+pNsyU4dgmBHH8G8+z8PcRitsdy/PbfUgxidN0ulymzGAiD2fq+1wbp83JopkU+mStTTd6KyAc/HQM02gwgsAJCFGZGqbiOFYUOf2+N4g9Jt0a2cZO1ua8MMZLbbpS54U2XetdVxP4Rp7EgdfihAam1LCanmeHfitwbd8xIs9iJrn2ninzXAc7StV0baSFnhXm58cymQbfb+tV0u+0Nd+zQh+UVs8z/K4Wufpo2GKGifqeaNOFkS27y0V7Ntenc30ya44nxnhgBa4yjlvJqDsf2YNInw6tbNzOxt303U7GFlNs3vM8LlbxaZ9tFsG+HEzHrTx1VjN7NbXLzNmkTpEAbrUKt8tgt4zK1C8zL5+5zKFMgG0x3W3m22J2Py72RVyk3XzeLmad3TKsFv4m83ZLf78KytQtM38xdfK5U2U+c9qtbqfN41rdztX9urtftuBfDsvjbva6Lr+eq2M1KvN4C6z6h824WPRyyFXG+ypmno/D67X/eB5fj+Pjuruct7fzFvzXbf+8VjDL5bh43fLTdn7apedd8nFbP87pthqsy4C5XfJqPyk36eVQgPhx298vu8up3FfZrsqK9eTrtX/ey/t5/fVxeN7K78/yccqe1/X5NGc+7ofrqTjsljBwmU/3VbqY9fdV8vmsvj12MMJxt3hcy8sh+/bYvu77yzG/n1bXw/JyXDOvx/Zx27xu2/ul+Hxtvz72l0P67bL6/Zfr1+fudl5X69mpWpy3y/M+Px+K66ncbhabdVJtsn8Bhfq2I83LJBMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;깜장예삐&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bf1380fcc02616141751440a9d4d8237/f058b/image-13.png&quot;
+        srcset=&quot;/static/bf1380fcc02616141751440a9d4d8237/c26ae/image-13.png 158w,
+/static/bf1380fcc02616141751440a9d4d8237/6bdcf/image-13.png 315w,
+/static/bf1380fcc02616141751440a9d4d8237/f058b/image-13.png 630w,
+/static/bf1380fcc02616141751440a9d4d8237/40601/image-13.png 945w,
+/static/bf1380fcc02616141751440a9d4d8237/302a4/image-13.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;예삐 구경하고 남은 고기 던져주고, 숙소 안으로 들어가서 2차전 했다.&lt;br&gt;
+수박도 먹고 오이도 먹고 샤인머스켓도 먹고 야무지게 먹었다.&lt;br&gt;
+하지만 끝나지 않았어.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7c7080f6890837fc578b1e449a37428d/669cd/image-11.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;엽떡_만두&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7c7080f6890837fc578b1e449a37428d/f058b/image-11.png&quot;
+        srcset=&quot;/static/7c7080f6890837fc578b1e449a37428d/c26ae/image-11.png 158w,
+/static/7c7080f6890837fc578b1e449a37428d/6bdcf/image-11.png 315w,
+/static/7c7080f6890837fc578b1e449a37428d/f058b/image-11.png 630w,
+/static/7c7080f6890837fc578b1e449a37428d/40601/image-11.png 945w,
+/static/7c7080f6890837fc578b1e449a37428d/78612/image-11.png 1260w,
+/static/7c7080f6890837fc578b1e449a37428d/669cd/image-11.png 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33774e074c30d62cf14bf9ed260fb264/302a4/image-12.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAIAAADzvTiPAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGEUlEQVR42iVU+VNTZxTNr7ZjZQkJgUASIBEQ2UQICQmKEJYIQRYjUVCKjguKyCai1ooKVgXcAB2oHVGUghIVWZO87NvL2/KyE9zb/6Nf6MydN/fNvPPOd88536WQmI5AtE4EAg2JGZyozoUbQLlxw8FDBxpaGg8eUwgK+UtTN0jlZfN0Fzp/BXlz2TLdifzdQ3EiWsyuxmANDsqhxR0Q6EFt+Ox9F8/VKWobjsqbmmpwWB00TaKz3Y65Xnj2ovFlp32mm0I4INyuAeQ4DBEOcAQ9iekBf8BjbT15pKxCrGg6oJCX203LXlxrnu7RPjtjme6AZ7rJd1coIR67mtjkBHgnGgJ7nCbwWiopKC4RSPeLZfvFqx+eB3wornuFz1+yv+6GZ3r8y/0U1K4G3zkRMKoRNCSuB7URQKeePcjJTZUrqqTl+YXCtOGBrnWPnSTMQcsUPn+VeNf/RTtCcVjX/mcLiUQAwfRe0oLaNbU1xUJxVr28XFYtLpeKG+USq/6934v4Cf069PiL9uE3wygFNq+G1A7NqXcTJswBBX3I/aF+oWiXVLb3aEvdsRP1slqJpLRg5HbX5wDmJm0Bx0JQdde3dJuC2NQEoiNxY4icMLqdZhSG5A1VJRV76hsqWk42KBqlspp9FbLSlsMSzLbqdVm9LrtXO+FdvBkCozY1iRmdqAE8g35E+fY5X5BRXJYvV0ibmuvaOs8ommT7qyWyyoKFuaefAjggCJAG39owBbUBhyEXbnLhZsyh9Xus90du7sxMlJQLqmuLzl440dreUlEpKCrJKynljz249u93H/DC7bQE0cUQM8jGJq2JAGq5rb9f787ezZWU8+vkpa3tzTV1eyplIkkZf29Rxh+3Or9+In1uW8BjC7itwCoIgAlET6AGAjP6vfClyx3xbBZfJKptUNQckhfuK8rN56dnZyVx4wauX/jxzet1WQDYQxgpm5HUEg6dEzNiiC4YxLu6z4dHMLLyxE2n2grLqvJExRk5wlgWL5JK7b9y7p/vXr/XDhwBFQJjMIQjehzROXFTIIB0drWFRdCz+OKDv56sO3xUXFyWKypiJ6ZERIQPXu/4HMQ8pMXvtq17YRBPCAGaASRhInDjpw28vb01PJKRLSisOFDf09tz5Ghzwd4S3o7MqCjqrWsXSNxgMy2BOG74EQpi12xqpnM5LaTTFPDDZ8+d3LqNuiM7v2BfaXN9ddf5tpL91dHMBFpU5O3+ThLVwZZVn8vyeR0LMTusKswBcmLyuCzrfvupUy1bt0Ul8HYmJaczY1nZu3Izd+eHRUYD8NBgH4CBIH8KID++uCg4rN20KpRNr8cWDCItLY1bfg5Py+Kn7MyJpDFi4jh5BXu5yemxDPrInauAzKJfAAP/+EKGwOAagJx4PLDLaXROjx2pLNvyS2R6ToGwsITLSczNE1QfPJKakcNhxdy/+5tWpVycn7Ibl79/JsEyANsHRNqKGxbwF4+gvo46sXBrRHTmblGlrEYqEh6X1x063EhnxAPw6MgNo+bD2sKMSfP+axCjgFsBtgf0/JH6eruqt623rCibw6bHsHlpOWUVVTkZGaK8PGlVTSyTnZjAevpwwAotaBZn9SqljzRTXITZtqb8ONi3cq1joF7aeqgyg8elUuk0BpMZx46IjKIzmNztaVFR0SxmzOT4kM2wol6Y0a68wW0aCjiwTaVUjd6Gx+9Ntja/eTEuFuTRaIzYeE56RhYrnp3CS0lI4IZHUHkc1uvhPuzDc2hpTrs0i5pXQ1bZoffasUHsz4d/dbfd6j6dmZocGxtHo8cI8oVZaWmZKSnJ27dHUmlFwlx4Ysg2Mqh5Pw2YEdMaUBvCzKsfn9wzKWee3rjWKStJZcZwE3ksDpdGi6VFMej0GPAvdjzntLzKPz22fLNXNT+lXZpDjKtgb+tI1DA7fk8zMYRMDqkHrh7IzQr7aUsiJyEhkcvhJLJYnFRechKL+aTj+Mb0qGb4slo5pV95i1tUFNSqIRHd0qMbxtFb3pdj5OTjx6ePx9PDkpKYXB47Lj6ayaQm8ZjlgnTT/f7g3DN44s7Kqyf6VSVhUf0Hx3Rpu5qknNcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;진로 뉴 패키지&quot;
+        title=&quot;&quot;
+        src=&quot;/static/33774e074c30d62cf14bf9ed260fb264/f058b/image-12.png&quot;
+        srcset=&quot;/static/33774e074c30d62cf14bf9ed260fb264/c26ae/image-12.png 158w,
+/static/33774e074c30d62cf14bf9ed260fb264/6bdcf/image-12.png 315w,
+/static/33774e074c30d62cf14bf9ed260fb264/f058b/image-12.png 630w,
+/static/33774e074c30d62cf14bf9ed260fb264/40601/image-12.png 945w,
+/static/33774e074c30d62cf14bf9ed260fb264/302a4/image-12.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;깜짝 서프라이즈로 사온 엽떡에 물만두까지 티겨서 끊임없이 먹었다.&lt;br&gt;
+술 사면서 새로운 병을 마주하여 주저없이 산 진로. 맛은 똑같다고 한다.&lt;br&gt;
+먹으면서 음악 맞추기 게임하다가 춤추고 놀았다.&lt;/p&gt;
+&lt;p&gt;그렇게 새벽 4시반인가 까지 놀다가 치우고 나니까 밖에 해가 뜨고 있었다.
+얼른 잠을 잤다 운전해야하니께~~&lt;/p&gt;
+&lt;p&gt;눈 뜨자마자 설거지 하고 어찌저찌 준비했는데, 체크아웃 시간이 너무 빨라서 좀 늦게 나가려다가
+주인님이 얼른 나가라고 문자가 와서 어영부영 나왔다.&lt;/p&gt;
+&lt;p&gt;어제 못 갔던 예삐 있는 카페를 가자고 했다 ㅎ&lt;br&gt;
+카페를 갔는데 예삐는 커녕 아무것도 없어서 음료 시키고 쉬다가 화장실을 갔는데.
+바로 옆에 문 뒤로 예삐가 자고 있는게 아닌가...!!!!!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/af25be5950570f925af48dd0e8d2c39c/302a4/image-14.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;잠자는 예삐&quot;
+        title=&quot;&quot;
+        src=&quot;/static/af25be5950570f925af48dd0e8d2c39c/f058b/image-14.png&quot;
+        srcset=&quot;/static/af25be5950570f925af48dd0e8d2c39c/c26ae/image-14.png 158w,
+/static/af25be5950570f925af48dd0e8d2c39c/6bdcf/image-14.png 315w,
+/static/af25be5950570f925af48dd0e8d2c39c/f058b/image-14.png 630w,
+/static/af25be5950570f925af48dd0e8d2c39c/40601/image-14.png 945w,
+/static/af25be5950570f925af48dd0e8d2c39c/302a4/image-14.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/333d1761f794a7ac075bc638fb411350/302a4/image-15.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;늠름 예삐&quot;
+        title=&quot;&quot;
+        src=&quot;/static/333d1761f794a7ac075bc638fb411350/f058b/image-15.png&quot;
+        srcset=&quot;/static/333d1761f794a7ac075bc638fb411350/c26ae/image-15.png 158w,
+/static/333d1761f794a7ac075bc638fb411350/6bdcf/image-15.png 315w,
+/static/333d1761f794a7ac075bc638fb411350/f058b/image-15.png 630w,
+/static/333d1761f794a7ac075bc638fb411350/40601/image-15.png 945w,
+/static/333d1761f794a7ac075bc638fb411350/302a4/image-15.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;원하던 예삐까지 보고 쏘카 반납 시간이 다돼서 얼른 출발했다.&lt;br&gt;
+주차장 도착했는데, 원하는대로 주차가 잘되지 않아 진땀을 뺏다 😅&lt;br&gt;
+주차 5분 걸렸는데 나가는 차가 빵빵거리지도 않고 잘 기다려주었다 휴우,,&lt;br&gt;
+주차 연습을 좀 해야겠다고 생각했다 🥹&lt;br&gt;
+딱 맞게 지하철이 있어서 itx 타는 친구들과 헤어지고 집으로 출발~!&lt;/p&gt;
+&lt;p&gt;예지니는 숙취로 타자마자 잠을 청했고, 그녀가 잠을 자는 사이 예미니한테 우리 내리면 배고플것 같다며
+마라탕을 먹자고 꼬셨다 ㅎ&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6465adc05760a438f389bf43d5aef7ce/302a4/image-16.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;마라탕&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6465adc05760a438f389bf43d5aef7ce/f058b/image-16.png&quot;
+        srcset=&quot;/static/6465adc05760a438f389bf43d5aef7ce/c26ae/image-16.png 158w,
+/static/6465adc05760a438f389bf43d5aef7ce/6bdcf/image-16.png 315w,
+/static/6465adc05760a438f389bf43d5aef7ce/f058b/image-16.png 630w,
+/static/6465adc05760a438f389bf43d5aef7ce/40601/image-16.png 945w,
+/static/6465adc05760a438f389bf43d5aef7ce/302a4/image-16.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;때깔 죽이는 마라탕 먹고 이번 여행은 마무리 끝~!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[silicagel Syn.THE.Size III]]></title><description><![CDATA[지난주 주말에 실리카겔 콘서트 다녀왔다. 11시에 도사견 클럽 친구들과 만나서 커피를 홀짝이며…]]></description><link>https://jihyangkim.github.io/may-23-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/may-23-post/</guid><pubDate>Thu, 23 May 2024 07:28:00 GMT</pubDate><content:encoded>&lt;p&gt;지난주 주말에 실리카겔 콘서트 다녀왔다.&lt;br&gt;
 11시에 도사견 클럽 친구들과 만나서 커피를 홀짝이며 1시간 반동안 줄을 섰다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
