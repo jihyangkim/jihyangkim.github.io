@@ -1,11 +1,521 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jihyangkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jun 2024 07:22:50 GMT</lastBuildDate><item><title><![CDATA[첫번째 포스트]]></title><description><![CDATA[드디어 두번째 프로젝트만에 깃허브에 배포가 되었다. 짜증 지대. 이전에 썼던 실리카겔 콘서트 후기는,, 저기 먼 곳으로.. 다음에 다시 쓰던지 해야겠다. gatsby…]]></description><link>https://jihyangkim.github.io/first-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/first-post/</guid><pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;드디어 두번째 프로젝트만에 깃허브에 배포가 되었다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jihyangkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 13 Jun 2024 04:03:14 GMT</lastBuildDate><item><title><![CDATA[블로그 댓글 앱 추가하기]]></title><description><![CDATA[좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다. 나도 동일한 내용으로 포스팅 해보겠다. 일단 댓글 저장용 리포지토리를 생성한다.  Install Utterances 이 링크에서 앱을 설치하고 리포지토리를 연결해야한다. 다음 step…]]></description><link>https://jihyangkim.github.io/june-13-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/june-13-post/</guid><pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;좋은 포스팅 보고 뚝딱뚝딱 댓글 앱 추가 했다.&lt;br&gt;
+나도 동일한 내용으로 포스팅 해보겠다.&lt;br&gt;
+일단 댓글 저장용 리포지토리를 생성한다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73f6664b996ada247dc7d199fd1d0938/68638/github-comment-repo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAABzElEQVR42pVT2VLbQBDUdxAItm6tDuuwrBM52AkQKnnIcyr//xmd6bVkZLvAxUPXzmo0PUfPGvd2iHQzoOz38JONoMTSTXC78PBlxNw+flv6uLl3wfhbS2EYnvH3zz8Yd6aCymqEeSPED8jrLcK0xlcrFOIYCyfCnQQsxGYw70svEb/SNnEjCbKix9P+NwwvSFCuGzh+Altl8KJCV+iEOeK8RSjJSMwk9Ln8XrSwghR+vNZ3VruQJJbYhisOWy62nJa/miHRRObom2z6aPOc7vQf4hMYrIrgTxMuf1ydJLxMPiGVCsMCWTVApZW0VenWHJUfZjVLcg4mPQdJDc6g7PZoH3+i2T6j371q1V2ZV7CqdKLDWcspWxCXehumli8I7SBD0exQb1+wefiBSkjbx1coITH1rFItgHXW5rsVktATtQLJOoG7yLkeCWYB16AJTS8+7tTSfZudOar5GRgUIJJdm6pjtf4MrOyaGCctO9LaupMZDk8afIKVzLL59qJFUqPqFIPJ3pvfCWHZf9dCdLtfiIpOC+GM+8m14quh6sRVQnt8QtxBrogjd1PmaI4zfGv3MN+PWiYMJ65hxy3sqNFwklbQfR6rXuIr/Ad50MPrp/V1GgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;깃허브 댓글 저장용 리포&quot;
+        title=&quot;&quot;
+        src=&quot;/static/73f6664b996ada247dc7d199fd1d0938/f058b/github-comment-repo.png&quot;
+        srcset=&quot;/static/73f6664b996ada247dc7d199fd1d0938/c26ae/github-comment-repo.png 158w,
+/static/73f6664b996ada247dc7d199fd1d0938/6bdcf/github-comment-repo.png 315w,
+/static/73f6664b996ada247dc7d199fd1d0938/f058b/github-comment-repo.png 630w,
+/static/73f6664b996ada247dc7d199fd1d0938/40601/github-comment-repo.png 945w,
+/static/73f6664b996ada247dc7d199fd1d0938/78612/github-comment-repo.png 1260w,
+/static/73f6664b996ada247dc7d199fd1d0938/68638/github-comment-repo.png 1510w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/apps/utterances&quot;&gt;Install Utterances&lt;/a&gt; 이 링크에서 앱을 설치하고 리포지토리를 연결해야한다.&lt;br&gt;
+다음 step 은 캡처하지 못해서 출처로 남긴 블로그를 참고해보자. 😉&lt;/p&gt;
+&lt;h3&gt;React로 되어있다면 컴포넌트를 새로 만들어야한다.&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;src/components/Utterances.js&lt;/code&gt; 컴포넌트를 아래와 같이 작성해준다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Utterances&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Component&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;props&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;commentsEl &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;createRef&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;state &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pending&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;token function&quot;&gt;componentDidMount&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; scriptEl &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;script&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function-variable function&quot;&gt;onload&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;success&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function-variable function&quot;&gt;onerror&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;failed&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;async &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;src &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;https://utteranc.es/client.js&apos;&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setAttribute&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;repo&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;jihyangkim/blog-comments&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setAttribute&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;issue-term&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;title&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setAttribute&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;theme&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;github-light&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    scriptEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setAttribute&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;crossorigin&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;anonymous&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;commentsEl&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;current&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;scriptEl&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;token function&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; status &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;state
+
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;comments-wrapper&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;status &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;failed&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Error&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; Please &lt;span class=&quot;token keyword&quot;&gt;try&lt;/span&gt; again&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;status &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pending&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Loading script&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div ref&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;commentsEl&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; Utterances&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;해당 컴포넌트를 원하는 곳에 넣어주면 끝이다!&lt;/p&gt;
+&lt;p&gt;후기 github 댓글 설치해서 했는데 약간 로드가 느린듯 하다. 로컬 테스트라서 그런가(?)&lt;/p&gt;
+&lt;p&gt;출처 : &lt;a href=&quot;https://sungchul-p.github.io/gatsby-utterances&quot;&gt;gatsby utterances 댓글 앱 추가&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[재시도 포스트]]></title><description><![CDATA[드디어 두번째 프로젝트만에 깃허브에 배포가 되었다. 짜증 지대. 이전에 썼던 실리카겔 콘서트 후기는,, 저기 먼 곳으로.. 다음에 다시 쓰던지 해야겠다. gatsby…]]></description><link>https://jihyangkim.github.io/june-11-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/june-11-post/</guid><pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;드디어 두번째 프로젝트만에 깃허브에 배포가 되었다.&lt;br&gt;
 짜증 지대.&lt;br&gt;
 이전에 썼던 실리카겔 콘서트 후기는,, 저기 먼 곳으로..&lt;br&gt;
 다음에 다시 쓰던지 해야겠다.&lt;/p&gt;
 &lt;p&gt;gatsby 로 해보았는데, 프론트 개발도 참 쉽지 않다.&lt;br&gt;
 백엔드 개발은 또 어떻게 할런지.&lt;/p&gt;
 &lt;p&gt;뭐든 해봐야겠다.&lt;br&gt;
-누구에게 공개할까 이 블로그를~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://jihyangkim.github.io/hello-world/</link><guid isPermaLink="false">https://jihyangkim.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+누구에게 공개할까 이 블로그를~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[silicagel Syn.THE.Size III]]></title><description><![CDATA[지난주 주말에 실리카겔 콘서트 다녀왔다. 11시에 도사견 클럽 친구들과 만나서 커피를 홀짝이며…]]></description><link>https://jihyangkim.github.io/may-23-post/</link><guid isPermaLink="false">https://jihyangkim.github.io/may-23-post/</guid><pubDate>Thu, 23 May 2024 07:28:00 GMT</pubDate><content:encoded>&lt;p&gt;지난주 주말에 실리카겔 콘서트 다녀왔다.&lt;br&gt;
+11시에 도사견 클럽 친구들과 만나서 커피를 홀짝이며 1시간 반동안 줄을 섰다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/90bb291374c4dae8f6f1cb9746d6c8d0/a207c/silicagel_240518_01.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 137.34177215189874%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAGgJd6T7GBkphjXNJhSD//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhARITH/2gAIAQEAAQUC13FuQzSO50c2nXp//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/ASN//8QAFxEAAwEAAAAAAAAAAAAAAAAAABAREv/aAAgBAgEBPwGmn//EAB0QAAEDBQEAAAAAAAAAAAAAAAABETIQICFBgSL/2gAIAQEABj8Cq+jwppeiYIk25Z//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFhcaH/2gAIAQEAAT8hyXLZbM+QvtJWxM5Flxx6kNpZ+wHa0m6OmUGXKNgfSf/aAAwDAQACAAMAAAAQNzs8/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/EHPf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBKRkP/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRgXFh/9oACAEBAAE/EFrFWquff7Uu5ilp4MtPwWWlfkj29RcERohflymnQwrhxLSA6wkWDZyLF7G7ZatsXW92DP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;실리카겔 깃발 위드 모자 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/90bb291374c4dae8f6f1cb9746d6c8d0/828fb/silicagel_240518_01.jpg&quot;
+        srcset=&quot;/static/90bb291374c4dae8f6f1cb9746d6c8d0/ff44c/silicagel_240518_01.jpg 158w,
+/static/90bb291374c4dae8f6f1cb9746d6c8d0/a6688/silicagel_240518_01.jpg 315w,
+/static/90bb291374c4dae8f6f1cb9746d6c8d0/828fb/silicagel_240518_01.jpg 630w,
+/static/90bb291374c4dae8f6f1cb9746d6c8d0/0ede0/silicagel_240518_01.jpg 945w,
+/static/90bb291374c4dae8f6f1cb9746d6c8d0/a207c/silicagel_240518_01.jpg 1040w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;열두시반정도 되니 일어나라고 해서 하나 둘 일어났다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1b831148ba9a4ca6026828f9233c4481/47311/silicagel_240518_02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAABbbC+s4Gg3PuzOj6hYD//xAAdEAACAgMAAwAAAAAAAAAAAAABAgADERIiBCFB/9oACAEBAAEFAktzHHrUzQiI4ELZOLCG5WvpfvlDupQU/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/ASN//8QAFhEBAQEAAAAAAAAAAAAAAAAAEgAQ/9oACAECAQE/AVLf/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAEQETESIjJRYf/aAAgBAQAGPwKnGDKNzjJTdPo56fJtn//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESFRcTFBYZH/2gAIAQEAAT8hp20wtXvEeVPsO4EaHVxMAT8hYNOAgDX7bQgrZ4YvHcDVakJhbP/aAAwDAQACAAMAAAAQADA+/8QAFhEAAwAAAAAAAAAAAAAAAAAAICEx/9oACAEDAQE/EGgf/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMVH/2gAIAQIBAT8QXRBEsKf/xAAdEAEBAAMBAAMBAAAAAAAAAAABEQAhMUFRYZGB/9oACAEBAAE/EBInG+OAC39xRemzWIga9TS/uajzUdD8Y0eAFtfyY4aivUvh+44JxkdzgnDFag0Rj9XzBRvjCiUFfnLWFa13n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;줄 서서 기다리는 중 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1b831148ba9a4ca6026828f9233c4481/828fb/silicagel_240518_02.jpg&quot;
+        srcset=&quot;/static/1b831148ba9a4ca6026828f9233c4481/ff44c/silicagel_240518_02.jpg 158w,
+/static/1b831148ba9a4ca6026828f9233c4481/a6688/silicagel_240518_02.jpg 315w,
+/static/1b831148ba9a4ca6026828f9233c4481/828fb/silicagel_240518_02.jpg 630w,
+/static/1b831148ba9a4ca6026828f9233c4481/0ede0/silicagel_240518_02.jpg 945w,
+/static/1b831148ba9a4ca6026828f9233c4481/47311/silicagel_240518_02.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;사람 짱많아. 해가 너무 뜨거워서 모자가 없으면 힘들었을 듯 했다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/27159f65d166b02304b5138359a51ad9/644c5/silicagel_240518_03.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABeaWUBzE//8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABIR/9oACAEBAAEFAuKDCDtqTSbendOBZWd//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAdEAACAgEFAAAAAAAAAAAAAAAAAQIhEQMyM5Gh/9oACAEBAAY/AuSy9VmHKTN3hTXRltH/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhUWH/2gAIAQEAAT8ha0gQcD4i51LaNvtdQWg1zBF85MP/2gAMAwEAAgADAAAAEPQf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QIf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIH/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMaFRYf/aAAgBAQABPxC5Swyl0fCpe26VQxMIjIeomAnSKrkKAjTY4xdSKgQon//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;왕큰이 포스터 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/27159f65d166b02304b5138359a51ad9/828fb/silicagel_240518_03.jpg&quot;
+        srcset=&quot;/static/27159f65d166b02304b5138359a51ad9/ff44c/silicagel_240518_03.jpg 158w,
+/static/27159f65d166b02304b5138359a51ad9/a6688/silicagel_240518_03.jpg 315w,
+/static/27159f65d166b02304b5138359a51ad9/828fb/silicagel_240518_03.jpg 630w,
+/static/27159f65d166b02304b5138359a51ad9/0ede0/silicagel_240518_03.jpg 945w,
+/static/27159f65d166b02304b5138359a51ad9/3ac88/silicagel_240518_03.jpg 1260w,
+/static/27159f65d166b02304b5138359a51ad9/644c5/silicagel_240518_03.jpg 1440w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이건 나중에 언녕이가 찍어서 보내준거지만 이뻐서 미리 첨부한다.&lt;br&gt;
+이러쿵 저러쿵 기다리다가 굿즈도 사고, 도사견들 쌈배 타임 마치고 배가 고파서 족발 먹으러 이동했다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e85006cec7faf99ed8c4b3ff6d7f9161/47311/silicagel_240518_09.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFzpVI8jEUqiKXRos//xAAdEAACAgIDAQAAAAAAAAAAAAABAgARITIDBCIx/9oACAEBAAEFAkyAYexRV7U8jV9gUAX6Jyup2n//xAAXEQEBAQEAAAAAAAAAAAAAAAABABIQ/9oACAEDAQE/AUGyc1f/xAAYEQADAQEAAAAAAAAAAAAAAAAAARIQEf/aAAgBAgEBPwFdRTyT/8QAHxAAAgECBwAAAAAAAAAAAAAAAREAAhAhIjEykaGx/9oACAEBAAY/AsvdtjjAHExSM1ERDPkTtXf/xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhMWEQQVFxkf/aAAgBAQABPyFGQnCuJdJUxAh2b3GAuy4qUDFL2o4zEik8QvBSNs3Pg6Do9T//2gAMAwEAAgADAAAAENsfQP/EABcRAQEBAQAAAAAAAAAAAAAAAAABITH/2gAIAQMBAT8QkIuMP//EABkRAQACAwAAAAAAAAAAAAAAAAEAIRARYf/aAAgBAgEBPxBpyOzF7J//xAAcEAEAAgIDAQAAAAAAAAAAAAABABExQSFRYZH/2gAIAQEAAT8QeDgi4TyKS2W8uu5fnWmU7l680KwY33HoBol177xCmicPJTLAHg4DuJFMjyQCE6paJG5NA85YT6Y9Jhqf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;족발집 웨이팅 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e85006cec7faf99ed8c4b3ff6d7f9161/828fb/silicagel_240518_09.jpg&quot;
+        srcset=&quot;/static/e85006cec7faf99ed8c4b3ff6d7f9161/ff44c/silicagel_240518_09.jpg 158w,
+/static/e85006cec7faf99ed8c4b3ff6d7f9161/a6688/silicagel_240518_09.jpg 315w,
+/static/e85006cec7faf99ed8c4b3ff6d7f9161/828fb/silicagel_240518_09.jpg 630w,
+/static/e85006cec7faf99ed8c4b3ff6d7f9161/0ede0/silicagel_240518_09.jpg 945w,
+/static/e85006cec7faf99ed8c4b3ff6d7f9161/47311/silicagel_240518_09.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;원조의 원조 평안도 족발집을 기다리며,,&lt;br&gt;
+(들어갔는데 아저씨가 아방방하게 계셔서 호로록 우리가 웨이팅 1번을 차지 했다고 한다.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/96d2d008dc7ef275e9951a3caf1fa001/47311/silicagel_240518_04.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAAFA//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEfR3GXNmwvO7OqU2ND/8QAGxAAAgMAAwAAAAAAAAAAAAAAAQIAAxEEEiH/2gAIAQEAAQUCFL5x6i0KuT3ZQmrGe7W9DUlnIEthJwWOZ//EABcRAQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BZFP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oACAECAQE/AddVX//EAB4QAAICAgIDAAAAAAAAAAAAAAABERIhIgIyEDGh/9oACAEBAAY/AtlBbnhRJJusCsjp8PRa/l5OzP/EABsQAQADAQEBAQAAAAAAAAAAAAEAESFBMVGR/9oACAEBAAE/IRsR3gnZYu+pKkEOcjtnN35GK2CjktaFRuGlvYCbv4lwWezwQ2yEb+k//9oADAMBAAIAAwAAABBb7fD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEQ/9oACAEDAQE/EB4DGV//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFx/9oACAECAQE/ENZcTpZJf//EAB4QAQACAwACAwAAAAAAAAAAAAEAESExQVFxYYHR/9oACAEBAAE/EDIVG+BdD4S4AQ2B4t/IiXdF09Sr5wAF8YOy2FgPLrfqVIh1VsRqoAyM/U8iAqk6RY4AW5ZiJqyU0G+/DLipuo//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;족발집 웨이팅 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/96d2d008dc7ef275e9951a3caf1fa001/828fb/silicagel_240518_04.jpg&quot;
+        srcset=&quot;/static/96d2d008dc7ef275e9951a3caf1fa001/ff44c/silicagel_240518_04.jpg 158w,
+/static/96d2d008dc7ef275e9951a3caf1fa001/a6688/silicagel_240518_04.jpg 315w,
+/static/96d2d008dc7ef275e9951a3caf1fa001/828fb/silicagel_240518_04.jpg 630w,
+/static/96d2d008dc7ef275e9951a3caf1fa001/0ede0/silicagel_240518_04.jpg 945w,
+/static/96d2d008dc7ef275e9951a3caf1fa001/47311/silicagel_240518_04.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;굿즈로 가득한 그녀들. 실카템 하나씩 착용하고 있는 모습 ✌️&lt;br&gt;
+나는 거인 리리는 소인 마냥 나왔다. (이상하다🙃)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6dd37eb332a6b050923d2bfd0d0a7b2f/47311/silicagel_240518_05.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEBQb/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAUqJg2REdCeu3c542yf/xAAcEAEAAwACAwAAAAAAAAAAAAABAAIREiEDE0L/2gAIAQEAAQUCawyp1N65ZHkvkSx62O1lgL/JUn//xAAYEQACAwAAAAAAAAAAAAAAAAAAARASUf/aAAgBAwEBPwFTdYf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwFlRk//xAAgEAACAgEDBQAAAAAAAAAAAAAAAQIRMRAhMiJBYXGh/9oACAEBAAY/Am5Sb8Gyyc69jaW5c8adMjl8KZXbTB//xAAdEAEAAgICAwAAAAAAAAAAAAABABExUSFxQWHB/9oACAEBAAE/IXqOAGsFm40XZiEdCQsFDAQ57iQlJtnkPuuIuXOxSX7JSQAcT4icif/aAAwDAQACAAMAAAAQINnx/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAwEBPxB9LC2CJ//EABkRAAMAAwAAAAAAAAAAAAAAAAABESFBUf/aAAgBAgEBPxBNEvMJBt0//8QAIBABAQACAQMFAAAAAAAAAAAAAREAITFBUbFhcZGh4f/aAAgBAQABPxBUcNhheAx/I9Da/lN4i1uqlfpMAMsqTbrSYrwmAjvB4wcWLAil6+uNeQj4hg5QXl0+cqil7lPfDs4AEDWQ1gjxTAWiMKZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;평안도 족발 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6dd37eb332a6b050923d2bfd0d0a7b2f/828fb/silicagel_240518_05.jpg&quot;
+        srcset=&quot;/static/6dd37eb332a6b050923d2bfd0d0a7b2f/ff44c/silicagel_240518_05.jpg 158w,
+/static/6dd37eb332a6b050923d2bfd0d0a7b2f/a6688/silicagel_240518_05.jpg 315w,
+/static/6dd37eb332a6b050923d2bfd0d0a7b2f/828fb/silicagel_240518_05.jpg 630w,
+/static/6dd37eb332a6b050923d2bfd0d0a7b2f/0ede0/silicagel_240518_05.jpg 945w,
+/static/6dd37eb332a6b050923d2bfd0d0a7b2f/47311/silicagel_240518_05.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1번 웨이팅은 좋은 것이였다.&lt;br&gt;
+순식간에 들어가서 족발 대자 막국수 소주 맥주 시켰다.&lt;br&gt;
+이 윤기나는 친구를 보세요.   이렇게 죽이는것을.   아저씨들만 맨날 먹고.&lt;br&gt;
+신속 빠른 공유 부탁 🙏&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/03e5fef406de4ac9a07b9a177a5c3242/47311/silicagel_240518_10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAdNSo8tAeVBE3pokJZ//xAAfEAABAwMFAAAAAAAAAAAAAAACAAEDBBESFCMyM0L/2gAIAQEAAQUC2zWELrTxuqbr8w8KS+ARGwxGLBk6sysv/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AXD/xAAeEAACAgICAwAAAAAAAAAAAAAAARExAhAhQVGBkf/aAAgBAQAGPwKkzr6WxzcHnWQ549kPJFvf/8QAHRAAAgICAwEAAAAAAAAAAAAAAAERITFRQWFxkf/aAAgBAQABPyFX+qh40PBkL7CtbAU05PPQkKTTW7Fcqm+U0J8j6W7ux6hJGD//2gAMAwEAAgADAAAAEO/Yjf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPxCrrVf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxCBH//EAB8QAQADAAEEAwAAAAAAAAAAAAEAESExUWGRwUFxof/aAAgBAQABPxBAiiXbieJr2vr9wBi9i+oNW5TdsBGxgNOVfvxAGAAsQ7UAPXCKUgc2WOsMSGN9sb7Q4aRZCVXk3H6j/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;임대 매물 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/03e5fef406de4ac9a07b9a177a5c3242/828fb/silicagel_240518_10.jpg&quot;
+        srcset=&quot;/static/03e5fef406de4ac9a07b9a177a5c3242/ff44c/silicagel_240518_10.jpg 158w,
+/static/03e5fef406de4ac9a07b9a177a5c3242/a6688/silicagel_240518_10.jpg 315w,
+/static/03e5fef406de4ac9a07b9a177a5c3242/828fb/silicagel_240518_10.jpg 630w,
+/static/03e5fef406de4ac9a07b9a177a5c3242/0ede0/silicagel_240518_10.jpg 945w,
+/static/03e5fef406de4ac9a07b9a177a5c3242/47311/silicagel_240518_10.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;밥 잔뜩 먹고 카페를 찾으러 돌아다니다가 언니한테 보내주면 좋을만한 매물 발견.&lt;br&gt;
+한컷 찍어놨는데, 아직도 공유 안함 ㅋ&lt;/p&gt;
+&lt;p&gt;카페를 찾으러 동대입구와 동역사 사이를 왔다갔다한 결과 한 카페에 앉았다.&lt;br&gt;
+너무 더워서 얼굴 상태 확인 했더니 술 + 더위로 얼굴이 빨갰다.&lt;/p&gt;
+&lt;p&gt;한껏 멍때리다가 스탠딩 줄을 서러 일찍 일어났다.&lt;br&gt;
+꽤 시간이 남았지만, 얼른 가자는 친구들에 의해 열심히 갔다.&lt;/p&gt;
+&lt;p&gt;언녕이는 좌석이고 나머지는 스탠딩이라 언녕이와 헤어지고 우리는 줄을 섰다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a4ada243fa18876ecd633b000f4da57e/d2602/silicagel_240518_11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHW57NrpY//xAAZEAADAQEBAAAAAAAAAAAAAAABAhEDABL/2gAIAQEAAQUCPiKLxY9o2cIUJstf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIRITFB/9oACAEBAAY/Ari0bK0vDEZCmK+11FrD/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIVFx/9oACAEBAAE/IW6FsS4mYAbAm4nyHmizy4ZKqEHf/9oADAMBAAIAAwAAABDY3//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFv/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QBsX/xAAbEAACAwEBAQAAAAAAAAAAAAABEQAhMUFR0f/aAAgBAQABPxAP5hcGtcXIOwBd/I5oA4MlDbjahxruQxKJmWPX6bhMtMQsrdn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스탠딩 줄 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a4ada243fa18876ecd633b000f4da57e/828fb/silicagel_240518_11.jpg&quot;
+        srcset=&quot;/static/a4ada243fa18876ecd633b000f4da57e/ff44c/silicagel_240518_11.jpg 158w,
+/static/a4ada243fa18876ecd633b000f4da57e/a6688/silicagel_240518_11.jpg 315w,
+/static/a4ada243fa18876ecd633b000f4da57e/828fb/silicagel_240518_11.jpg 630w,
+/static/a4ada243fa18876ecd633b000f4da57e/0ede0/silicagel_240518_11.jpg 945w,
+/static/a4ada243fa18876ecd633b000f4da57e/3ac88/silicagel_240518_11.jpg 1260w,
+/static/a4ada243fa18876ecd633b000f4da57e/d2602/silicagel_240518_11.jpg 4032w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;으악새. 이게 B구역 한 줄이다.&lt;br&gt;
+실리카겔 첫번째 갔던 콘에 비하면,,&lt;br&gt;
+인기가 너무 많은 것 같다.   슈스다 슈스~~&lt;br&gt;
+사람들한테 몇번이세요? 질문을 세번 하다가 내 자리를 찾았다.&lt;br&gt;
+이제 나의 차례다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;자경단 : 혹시 몇번이세요?&lt;br&gt;
+나 : 373번이요.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;이걸 삼백만번 했을쯤 이제 그만 말하고 싶어졌다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d114f2722386acb7062d9eecb6d26a4f/9568a/silicagel_240518_12.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGknPAMJvu8w0bJr//EAB0QAAICAwADAAAAAAAAAAAAAAECAAMREhMhMTL/2gAIAQEAAQUCGVLLkitzHfRevhLAYqdDYukRInxYx2T1/8QAFxEBAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwGLY//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEQ/9oACAECAQE/AR3hWOz/xAAeEAABAwUBAQAAAAAAAAAAAAABABAhAhESMUEiUf/aAAgBAQAGPwK1RhHHTTIV8bhE5d6iavqAAgo+RBbbf//EABwQAQACAwEBAQAAAAAAAAAAAAEAIRExQVFhcf/aAAgBAQABPyH2LxmZEqdgOcQaYjAAT/XUHR2qhnC+NE7s8MWu4J07O2pit9Z//9oADAMBAAIAAwAAABAn/UH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAh/9oACAEDAQE/EERxEcX/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxABpZJ4XW//xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMUFRYYGRsdH/2gAIAQEAAT8QpKjozj2TvREBSLjRKXhTS8d36jAVVpYFc/kFQsAFh1jiaZ2p9EpiI6nI6H4iAHylPHuGqr8rjM0yGdMQYcovln//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;지하철까지 선 줄 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d114f2722386acb7062d9eecb6d26a4f/828fb/silicagel_240518_12.jpg&quot;
+        srcset=&quot;/static/d114f2722386acb7062d9eecb6d26a4f/ff44c/silicagel_240518_12.jpg 158w,
+/static/d114f2722386acb7062d9eecb6d26a4f/a6688/silicagel_240518_12.jpg 315w,
+/static/d114f2722386acb7062d9eecb6d26a4f/828fb/silicagel_240518_12.jpg 630w,
+/static/d114f2722386acb7062d9eecb6d26a4f/0ede0/silicagel_240518_12.jpg 945w,
+/static/d114f2722386acb7062d9eecb6d26a4f/3ac88/silicagel_240518_12.jpg 1260w,
+/static/d114f2722386acb7062d9eecb6d26a4f/9568a/silicagel_240518_12.jpg 3024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;언녕이가 화장실 가면서 알려줬는데, 우리가 서 있는 곳이 지하철과 연결된 곳이라고 했다.&lt;br&gt;
+이게 무슨 민폐 같기두 하고, 줄도 제대로 안세워주고, 냄새두 나고, 웃기면서 진이 다빠져서 힘들었다.&lt;br&gt;
+줄을 서긴 했는데 시간은 다가오고 스텝들은 정리를 안해서 우당탕탕 입장을 시작했다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/db4f714fa753f9a8895d75ba65c97e38/644c5/silicagel_240518_07.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABzlqirCiP/8QAGhABAAIDAQAAAAAAAAAAAAAAAQIQABESE//aAAgBAQABBQL0TJrvmVNf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxABAAMAAAAAAAAAAAAAAAAAACAhMf/aAAgBAQAGPwJbIf/EABoQAQADAAMAAAAAAAAAAAAAAAEAEBEhMUH/2gAIAQEAAT8hBezjtjQ1e2NU1r//2gAMAwEAAgADAAAAEEAv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/EDRYEy/MLRoDT6Yvo9+kA2inLYgIqdWPXCf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;입장 후 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/db4f714fa753f9a8895d75ba65c97e38/828fb/silicagel_240518_07.jpg&quot;
+        srcset=&quot;/static/db4f714fa753f9a8895d75ba65c97e38/ff44c/silicagel_240518_07.jpg 158w,
+/static/db4f714fa753f9a8895d75ba65c97e38/a6688/silicagel_240518_07.jpg 315w,
+/static/db4f714fa753f9a8895d75ba65c97e38/828fb/silicagel_240518_07.jpg 630w,
+/static/db4f714fa753f9a8895d75ba65c97e38/0ede0/silicagel_240518_07.jpg 945w,
+/static/db4f714fa753f9a8895d75ba65c97e38/3ac88/silicagel_240518_07.jpg 1260w,
+/static/db4f714fa753f9a8895d75ba65c97e38/644c5/silicagel_240518_07.jpg 1440w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;은재랑 나는 20번 정도 차이가 났지만, 우당탕탕 입장으로 우리는 같이 스탠딩에서 관람을 할 수 있게 됐다.&lt;br&gt;
+리리는 찾을 수 없어 이리저리 봤지만, 그녀는 왼쪽 펜스쪽에 있고 우리는 오른쪽 펜스에 있어서 만날 수 없었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/299b966bfbed70449f7a85daaa38793a/47311/silicagel_240518_08.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAFSzMFmOAceq0amxQH/xAAcEAABBAMBAAAAAAAAAAAAAAACAAEREwMQIgT/2gAIAQEAAQUCEQRAMgPL4+fOMjUythhyq7Ta/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ASP/xAAXEQADAQAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/AWbf/8QAGxAAAwACAwAAAAAAAAAAAAAAAAEhMUECICL/2gAIAQEABj8CvJJHilhgaeTZvt//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMRBBUXHw/9oACAEBAAE/IXYgMQ3GGdrwxFPb1A1wz4Mpsiq12xvoSPL/2gAMAwEAAgADAAAAECsMTv/EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QrL3/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEQ/9oACAECAQE/EAMLef/EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQVGB/9oACAEBAAE/EGH2B9Y66c61SE1NXhpDFrS4c8g3eJYnOr7C2uDQSdMUJ6cNWD2v6BlYM+edg0qf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;공연 끝 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/299b966bfbed70449f7a85daaa38793a/828fb/silicagel_240518_08.jpg&quot;
+        srcset=&quot;/static/299b966bfbed70449f7a85daaa38793a/ff44c/silicagel_240518_08.jpg 158w,
+/static/299b966bfbed70449f7a85daaa38793a/a6688/silicagel_240518_08.jpg 315w,
+/static/299b966bfbed70449f7a85daaa38793a/828fb/silicagel_240518_08.jpg 630w,
+/static/299b966bfbed70449f7a85daaa38793a/0ede0/silicagel_240518_08.jpg 945w,
+/static/299b966bfbed70449f7a85daaa38793a/47311/silicagel_240518_08.jpg 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;공연은 너무 너무 재밌었다. 나와서 언녕이 치어링 슬로건 빌려서 사진 찍었다.&lt;br&gt;
+손에 든건 이번 콘서트 기프트 = 손수건.&lt;br&gt;
+이전에는 키링이나 카라비너 주더니 수건.. ㅋ 아쉽구만.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/da97e955adc665dc36f74a116ff4d828/d2602/silicagel_240518_13.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHNtRhCZZ//xAAaEAACAwEBAAAAAAAAAAAAAAAAAgESEwQU/9oACAEBAAEFAsZF5zBz0TI7NW5//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIRITED/9oACAEBAAY/AjqNYKq8s86XWbP/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhQVExYXH/2gAIAQEAAT8hHvX2K4QeTsr7SW6BovwxCnYircLn/9oADAMBAAIAAwAAABBs3//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8Qi0g//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAHwEf/aAAgBAgEBPxBMW0//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFR4f/aAAgBAQABPxDPcKwpzG0B7OxJRo8DBJoALFmNQwYzc5aU29/YmgAo0s//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;공연 끝 단체 한컷&quot;
+        title=&quot;&quot;
+        src=&quot;/static/da97e955adc665dc36f74a116ff4d828/828fb/silicagel_240518_13.jpg&quot;
+        srcset=&quot;/static/da97e955adc665dc36f74a116ff4d828/ff44c/silicagel_240518_13.jpg 158w,
+/static/da97e955adc665dc36f74a116ff4d828/a6688/silicagel_240518_13.jpg 315w,
+/static/da97e955adc665dc36f74a116ff4d828/828fb/silicagel_240518_13.jpg 630w,
+/static/da97e955adc665dc36f74a116ff4d828/0ede0/silicagel_240518_13.jpg 945w,
+/static/da97e955adc665dc36f74a116ff4d828/3ac88/silicagel_240518_13.jpg 1260w,
+/static/da97e955adc665dc36f74a116ff4d828/d2602/silicagel_240518_13.jpg 4032w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이번 공연도 재밌게 봤다 즐거웠어유 ㅎ 😆 다음엔 멤버십 가입하라고 하는거 아닌지,,&lt;br&gt;
+두렵지만 실리카겔 콘서트 또 해줘~~ 재밌어 ㅎ 다음엔 좌석으로 간다.&lt;br&gt;
+공연 후기로 앞에 남팬에게 암내로 고통 받아서. 라는 말을 들었다.&lt;/p&gt;
+&lt;p&gt;그럼 안녕 😉&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://jihyangkim.github.io/hello-world/</link><guid isPermaLink="false">https://jihyangkim.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
